@@ -3,7 +3,7 @@ import pandas as pd
 
 # Page setup for the interface
 st.set_page_config(layout="wide")
-st.title("🧬 Stem Cell Translation & Enterprise Database")
+st.title("Stem Cell Translation & Commerce Database")
 st.write("An interactive repository built to analyze the operational bottlenecks and scale-up solutions for advanced therapies.")
 
 # Load data
