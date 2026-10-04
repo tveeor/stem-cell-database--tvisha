@@ -1,0 +1,11 @@
+Cell_Type,Lineage,Marker_Gene,Current_Logistical_Bottleneck,Future_Enterprise_Solution
+Embryonic Stem Cell (ESC),Pluripotent,OCT4,Severe ethical screening hurdles & low patient donor match rates,Establishing unified international donor registries
+Induced Pluripotent (iPSC),Pluripotent,SOX2,Bespoke patient autologous manufacturing takes months & costs £100k+,Transitioning to mass-scale allogeneic 'off-the-shelf' cell banks
+Induced Pluripotent (iPSC),Pluripotent,NANOG,High risk of tumor formation (teratomas) from undifferentiated cells,Implementing high-throughput microfluidic cell purification
+Hematopoietic Stem Cell (HSC),Multipotent,CD34,Requires precise cryopreservation transport & strict temperature control,Optimizing localized cold-chain logistics hubs near hospitals
+Mesenchymal Stem Cell (MSC),Multipotent,RUNX2,Slow ex-vivo cellular expansion rates in standard manual culture,Scaling up production via automated bioreactor engineering
+Neural Progenitor Cell (NPC),Unipotent,PAX6,Invasive extraction from nervous tissue limits therapy validation,Utilizing targeted iPSC differentiation protocols to skip extraction
+Limbal Stem Cell (LSC),Unipotent,ABCB5,High patient donor attrition rates due to strict ocular tissue matching,Engineering cell-scaffold matrices for synthetically stable cultures
+Cardiac Progenitor Cell,Multipotent,NKX2-5,Poor retention and cell survival rates upon therapeutic injection,Developing bio-compatible hydrogel delivery vehicles for cell stability
+Hepatic Progenitor Cell,Multipotent,AFP,Rapid functional cell degradation once removed from biological environment,Creating micro-physiological liver-on-a-chip testing platforms
+Skeletal Muscle Stem Cell,Multipotent,PAX7,High cost of media supplements required to maintain lineage commitment,Formulating low-cost industrial-grade chemical serum alternatives
